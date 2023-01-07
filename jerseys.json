@@ -1,4 +1,4 @@
-[{
+[rm:{
 		"ID": "ADASxRMA21",
 		"PRODUCTNAME": "Real Madrid C.F 2021/2022 Home Jersey",
 		"GRAPHICNAME": "rmjersey.png",
@@ -8,7 +8,7 @@
 		"QUANTITYONBACKORDER": "55",
 		"DESCRIPTION": "Real Madrid's 21-22 home uniform is inspired by the Plaza de Cibeles, the place where Madrid and their fans traditionally celebrate titles wins.\nWhat makes the Adidas Real Madrid CF 2021-22 home shirt unique is a graphic design inspired by the Plaza de Cibeles and its water fountain, where the club celebrates its great achievements.\nThe very subtle design consists of concentric lines that have been added via a Jacquard fabric",
 		"BRAND": "Adidas"
-	}, {
+	}, bm:{
 		"ID": "ADASxBYM21",
 		"PRODUCTNAME": "FC Bayern Munich 2021/2022 Home Jersey",
 		"GRAPHICNAME": "bmjersey.png",
@@ -19,7 +19,7 @@
 		"DESCRIPTION": "The Bayern München 2021-22 home shirt combines the club's traditional shade of red ('FCB True Red') with the darker 'Craft Red', not unlike the 2015-16 kit.\nThe Bayern 21-22 home kit comes with the new Bayern 21-22 kit font (also used for 21-22 away) and a new Mia san Mia logo on the back under the collar.",
 		"BRAND": "Adidas"
 	},
-	{
+	mu:{
 		"ID": "ADASxMUN21",
 		"PRODUCTNAME": "Man United F.C 2021/2022 Home Jersey",
 		"GRAPHICNAME": "mujersey.png",
@@ -30,7 +30,7 @@
 		"DESCRIPTION": "The entire design of the Manchester United 21-22 home shirt is very clean and much different from the previous iteration.\nThe only thing going on in terms of prints or graphic is a very subtle striping pattern that appears throughout the front, sleeves and back.",
 		"BRAND": "Adidas"
 	},
-	{
+	ars:{
 		"ID": "ADASxARS21",
 		"PRODUCTNAME": "Arsenal F.C 2021/2022 Home Jersey",
 		"GRAPHICNAME": "arsenaljersey.png",
@@ -41,7 +41,7 @@
 		"DESCRIPTION": "As with the 2021-22 away kit, the Arsenal for Everyone logo features on the inside collar of the shirt.\nAs with the 2021-22 away kit, the Arsenal for Everyone logo features on the inside collar of the shirt.",
 		"BRAND": "Adidas"
 	},
-	{
+	juv:{
 		"ID": "ADASxJUV21",
 		"PRODUCTNAME": "Juventus F.C 2021/2022 Home Jersey",
 		"GRAPHICNAME": "juvjersey.png",
@@ -52,7 +52,7 @@
 		"DESCRIPTION": "Made by Adidas, the new jersey features a 'new' sponsor patch beside the Jeep logo.\nThe 4XE logo of course refers to Jeep's new plug-in hybrid technology.\nThe Adidas Juventus 2021-22 jersey brings back the classic black and white stripes after two years of less than ideal renditions - first the half-and-half design of last season and later the brushstroke stripes of 2020-21.",
 		"BRAND": "Adidas"
 	},
-	{
+	che:{
 		"ID": "NIKExCHE21",
 		"PRODUCTNAME": "Chelsea F.C 2021/2022 Home Jersey",
 		"GRAPHICNAME": "chejersey.png",
@@ -63,7 +63,7 @@
 		"DESCRIPTION": "The Nike Chelsea 2021-22 shirt has a very different look to the 20-21 home shirt.\nThe Nike Chelsea FC 2021-22 home jersey combines the main color 'Lyon Blue' with 'Opti Yellow' logos.\nLyon Blue is a fresh royal blue, while Opti Yellow is a rather standard yellow.\nDesign-wise, the Chelsea 21-22 home kit features an abstract zig-zag and checker all-over print. The Nike and club logos are yellow whilst the '3' emblem is white.\nA v-collar is used for the Chelsea 2021-22 home shirt, while there are yellow stripes along the sides.",
 		"BRAND": "Nike"
 	},
-	{
+	bar:{
 		"ID": "NIKExBAR21",
 		"PRODUCTNAME": "F.C Barcelona 2021/2022 Home Jersey",
 		"GRAPHICNAME": "barcajersey.png",
@@ -74,7 +74,7 @@
 		"DESCRIPTION": "Barcelona's new 2020-2021 home jersey introduces a classy look that's inspired by the 2011 Champions League winning shirt as well as the club's successful 1920s period.",
 		"BRAND": "Nike"
 	},
-	{
+	liv:{
 		"ID": "NIKExLIV21",
 		"PRODUCTNAME": "Liverpool F.C 2021/2022 Home Jersey",
 		"GRAPHICNAME": "livjersey.png",
@@ -85,7 +85,7 @@
 		"DESCRIPTION": "Liverpool's 2021-22 home jersey is sponsored by Standard Chartered, with the company's new logo making its debut, on the front and Expedia on the left sleeve.\nThe Nike Liverpool 2021-2022 shirt boasts a modern look. The Nike Liverpool 21-22 jersey combines a red base with bright red applications.\nIt features diagonal stripes that include a zig-zag; the sleeve cuffs are bright red.",
 		"BRAND": "Nike"
 	},
-	{
+	psg:{
 		"ID": "NIKExPSG21",
 		"PRODUCTNAME": "P.S.G 2021/2022 Home Jersey",
 		"GRAPHICNAME": "psgjersey.png",
@@ -96,7 +96,7 @@
 		"DESCRIPTION": "After a very classic rendition this year, the Jordan PSG 2021-2022 home jersey replaces the classic Hechter with a jacquard application that sees the iconic center stripe and border applied in a tonal way.\nThe white-red-white stripe still features prominently on the Jordan Paris Saint-Germain 21-22 home shirt, both on the collar, a simple crew-neck, and the sleeve cuffs.",
 		"BRAND": "Nike"
 	},
-	{
+	atm:{
 		"ID": "NIKExATM21",
 		"PRODUCTNAME": "Atletico Madrid 2021/2022 Home Jersey",
 		"GRAPHICNAME": "atmjersey.png",
@@ -107,7 +107,7 @@
 		"DESCRIPTION": "The Nike Atletico Madrid 21-22 home jersey features the classic red and white. The official colors are 'Sport Red / White.\nWhat makes the kit unique is the stripes design - the Atlético Madrid 21-22 home kit has brushstroke stripes instead of the classic vertical stripes.\nSpecifically, there's a broad white center stripe, which is stated to be inspired by the club's first jersey under the current name.",
 		"BRAND": "Nike"
 	},
-	{
+	mnc:{
 		"ID": "PUMAxMNC21",
 		"PRODUCTNAME": "Manchester City F.C 2021/2022 Home Jersey",
 		"GRAPHICNAME": "mncjersey.png",
@@ -118,7 +118,7 @@
 		"DESCRIPTION": "The Puma Manchester City 2021-22 home shirt combines a sky blue base with white trim in the form of panels on the sides as well as the logos.\nThe inside collar shows 93:20 in reference to Agüero's famous goal against QPR in 2012, which meant that City lifted the league title for the first time in 44 years.\nThe '10' part of the 20 is inverted, representing Agüero's shirt number.",
 		"BRAND": "Puma"
 	},
-	{
+	acm:{
 		"ID": "PUMAxMLN21",
 		"PRODUCTNAME": "A.C Milan 2021/2022 Home Jersey",
 		"GRAPHICNAME": "acmjersey.png",
@@ -129,7 +129,7 @@
 		"DESCRIPTION": "The Puma Milan 2021-2022 home jersey introduces a modern and fresh take on the club's traditional red and black stripes.\nInstead of equally sized stripes, the five stripes on the front of the Puma AC Milan 2021-2022 home football shirt decrease in width towards the sides.\nThe sleeves of the Milan 2021-22 home shirt are red while the sides and lower sleeves are colored in black - based on the same template as the new Man City shirt.",
 		"BRAND": "Puma"
 	},
-	{
+	bvb:{
 		"ID": "PUMAxBVB21",
 		"PRODUCTNAME": "Borussia Dortmund 2021/2022 Home Jersey",
 		"GRAPHICNAME": "bvbjersey.png",
@@ -140,7 +140,7 @@
 		"DESCRIPTION": "The Puma Borussia Dortmund 2021-22 home jersey is yellow with striping on the sleeves. It is not very similar to the 1997 shirt, produced by Nike.\\nIt takes inspiration from the 1997 Champions League win over Juventus, 'one of the great underdog stories in European Cup final history' according to Puma. This is not easy to see, however.\nThe electricity yellow color will be seen on the BVB 21-22 Cup kit. The BVB 21--22 home kit comes with the standard 'Cyber Yellow'.",
 		"BRAND": "Puma"
 	},
-	{
+	om:{
 		"ID": "PUMAxOMR21",
 		"PRODUCTNAME": "Olympique Marseille 2021/2022 Home Jersey",
 		"GRAPHICNAME": "omjersey.png",
@@ -151,7 +151,7 @@
 		"DESCRIPTION": "The Puma OM 2021-2022 home jersey combines the same colors as this season's jersey, \"White & Bleu Azur\".\nThe Puma Olympique Marseille 2021-22 home jersey features a third and fourth color, a darker shade of blue and navy. It is used for a small side element on the side.\nThe design of the Puma Olympique Marseille 2021-2022 home shirt is inspired by the 1989-90 home shirt by Adidas.",
 		"BRAND": "Puma"
 	},
-	{
+	val:{
 		"ID": "PUMAxVAL21",
 		"PRODUCTNAME": "Valencia C.F 2021/2022 Home Jersey",
 		"GRAPHICNAME": "valjersey.png",
