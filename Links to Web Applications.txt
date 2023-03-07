@@ -1,0 +1,7 @@
+Copy and paste the following links in your browser to test the applications.
+
+Azure:
+https://ivankepseushop.azurewebsites.net/index.html#/login
+
+AWS:
+http://ivankepseuinfo3139w2023case1-env.eba-gxedd2am.us-east-1.elasticbeanstalk.com/

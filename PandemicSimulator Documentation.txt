@@ -1,0 +1,26 @@
+THIS WAS A GROUP PROJECT WHERE I WAS RESPONSIBLE FOR THE COLLISION LOGIC AND DATA (STARTING VALUES) ENTRY.
+
+The Details
+In the simulation, a person infected status can either be true(infected) or false(not infected). On the screen shots a red dot represents an infected person.
+A person’s immunity status can be in one of several different states, which are mutually exclusive. 
+
+1) a person is not vaccinated, and has not had the disease and therefore has no immunity.
+2) a person has had only one shot of a two dose vaccine and has mild immunity.
+3) a person has had both shots of a two dose vaccine and has moderate immunity.
+3) a person has had a third booster shoot and has good immunity.
+4) a person has had the disease and has recovered, so that they have mild “natural immunity”.
+Now, even if a person has had three doses of the vaccine or have acquired natural immunity, they could still contract the disease and become spreaders, although the probability of this happening will be lower than for any unvaccinated persons, as will be detailed in the next section. 
+Probabilities of Getting Infected
+As this is the summer of 2022, we are going to assume that the dominant strain of the disease circulating is the omicron strain and its sub-variants such as Ba-4 and Ba-5. These variants have mutated somewhat from the original COVID-19 virus and are better able to evade the immunity offered by the current vaccines in use. So, the probability rules that we’ll use in this simulation for possible transmission from an infected person to an uninfected person are based on a person’s immunity status as follows:
+
+1) No immunity: If an infected person collides with an uninfected person who has no immunity, then there is an 80% chance that the disease will be passed on to the uninfected person.
+2) One shot of vaccine: If an infected person collides with an uninfected person who has had ONE shot of the vaccine, then there is a 60% chance that the disease will be passed on to the uninfected person.
+3) Two shots of vaccine: If an infected person collides with an uninfected person who has had BOTH shots of the vaccine, then there is a 30% chance that the disease will be passed on to the uninfected person.
+4) Third booster shot of vaccine: If an infected person collides with an uninfected person who has had a third booster shot of the vaccine, then there is a 10% chance that the disease will be passed on to the uninfected person.
+5) If an infected person collides with a person who has had the disease and recovered and has some mild natural immunity (a green dot on the screen shot) then there is a 40% chance that the this person with mild natural immunity will be infected. 
+
+For objects with no immunity, you could use BLUE. 
+For objects with one shot immunity, you could use CYAN.
+For objects with two shot immunity, you could use YELLOW
+For objects with three shot immunity you could use MAGENTA.
+For infected objects that have recovered, GREEN can be used to signify their status as having mild natural immunity.
